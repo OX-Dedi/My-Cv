@@ -274,6 +274,13 @@
         <div class="ml-auto mr-auto">
           <div class="row">
             <div class="col-md-6">
+            <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#uiux">
+                  <figure class="cc-effect"><img src="images/Data1.jpeg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Kolaborasi OXIGEN X UNINUS</div>
+                      <p>Sekolah Tinggi Teknologi Bandung</p>
+                    </figcaption>
+                  </figure></a></div>
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#uiux">
                   <figure class="cc-effect"><img src="images/Binnary.jpg" alt="Image"/>
                     <figcaption>
